@@ -148,22 +148,14 @@ const CreatePoint = () => {
                             <label htmlFor="uf">Estado (UF)</label>
                             <select name="uf" id="uf" value={selectedUf} onChange={handleSelectedUf} required>
                                 <option value="0">Selecione uma UF</option>
-                                {ufs.map(uf => {
-                                    return (
-                                        <option key={uf} value={uf}>{uf}</option>
-                                    )
-                                })}
+                                {ufs.map(uf => ( <option key={uf} value={uf}>{uf}</option> ))}
                             </select>
                         </div>
                         <div className="field">
                             <label htmlFor="uf">Cidade</label>
                             <select name="city" id="city" value={selectedCity} onChange={handleSelectedCity} required>
                                 <option value="0">Selecione uma cidade</option>
-                                {cities.map(city => {
-                                    return (
-                                        <option key={city} value={city}>{city}</option>
-                                    )
-                                })}
+                                {cities.map(city => (<option key={city} value={city}>{city}</option>))}
                             </select>
                         </div>
                     </div>
