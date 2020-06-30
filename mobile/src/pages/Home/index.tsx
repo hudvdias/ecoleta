@@ -51,8 +51,8 @@ const Home = () => {
                     </View>
                 </View>
                 <View style={styles.footer}>
-                <RNPickerSelect style={{viewContainer: styles.input}} onValueChange={(value) => setSelectedUf(value)} items={ufs} placeholder={{label: "Selecione o Estado", value: "0"}} />
-                <RNPickerSelect style={{viewContainer: styles.input}} onValueChange={(value) => setSelectedCity(value)} items={cities} disabled={selectedUf === "0" ? true : false} placeholder={{label: "Selecione a Cidade", value: "0"}} />
+                    <RNPickerSelect style={{viewContainer: styles.input}} onValueChange={(value) => setSelectedUf(value)} items={ufs} placeholder={{label: "Selecione o Estado", value: "0"}} />
+                    <RNPickerSelect style={{viewContainer: styles.input}} onValueChange={(value) => setSelectedCity(value)} items={cities} disabled={selectedUf === "0" ? true : false} placeholder={{label: "Selecione a Cidade", value: "0"}} />
                     <RectButton style={styles.button} onPress={handleNavigateToPoints}>
                         <View style={styles.buttonIcon}>
                             <Text>
