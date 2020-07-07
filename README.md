@@ -1,6 +1,9 @@
 # Ecoleta
 Projeto construído durante a Next Level Week #01 da Rocketseat
 
+## Preview
+![Preview de Ecoleta](https://github.com/hudvdias/ecoleta/blob/master/Ecoleta%20preview.jpg)
+
 ## Tecnologias Utilizadas
 - Node Js
 - React
