@@ -4,14 +4,20 @@ Projeto construído durante a Next Level Week #01 da Rocketseat
 ## Preview
 ![Preview de Ecoleta](https://github.com/hudvdias/ecoleta/blob/master/Ecoleta%20preview.jpg)
 
-## Tecnologias Utilizadas
+# Conhecimentos Abordados
+
+## Tecnologias:
 - Node Js
 - React
 - React Native
 - Typescript
 - SQL (SQLite)
 
-## Como utilizar
+## Funcionalidades
+- Aplicação RESTful
+- Uso de mapa na aplicação web e mobile
+
+# Como utilizar
 
 ### Arquivos:
 - Faça um clone do diretório ou download dos arquivos.
