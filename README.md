@@ -77,7 +77,7 @@ $ expo start
 
 ## 📃 Licença
 
-Este repositório está sob licença MIT.Para mais informações, leia o arquivo [LICENSE]().
+Este repositório está sob licença MIT. Para mais informações, leia o arquivo [LICENSE](https://github.com/hudvdias/ecoleta/blob/master/LICENSE).
 
 ## 🧑 Autor
 
