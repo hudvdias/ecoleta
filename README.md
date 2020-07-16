@@ -2,7 +2,7 @@
 
 #### Projeto construído durante a Next Level Week #01 da Rocketseat
 
-#### [Funcionalidades](#funcionalidades) • [Layout](#layout) • [Tecnologias](#tecnologias) • [Utilização](#utilização) • [Licença](#licença) • [Autor](#author)
+#### [Funcionalidades](#f-uncionalidades) • [Layout](#-layout) • [Tecnologias](#-tecnologias) • [Utilização](#-utilização) • [Licença](#-licença) • [Autor](#-author)
 
 #### Status: Concluído ✅
 
