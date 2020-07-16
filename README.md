@@ -80,3 +80,7 @@ $ expo start
 Este repositório está sob licença MIT.Para mais informações, leia o arquivo [LICENSE]().
 
 ## 🧑 Autor
+
+<img src="https://avatars3.githubusercontent.com/u/55948533?s=460&u=00a35650bd47d129038ca7b939c529d0b3ff9a3b&v=4" width=100 />
+
+[**Hudson Dias**](https://www.linkedin.com/in/hudvdias/)
