@@ -1,10 +1,16 @@
-# ♻ Ecoleta
+# Ecoleta
+
+<img src="https://github.com/hudvdias/ecoleta/blob/master/web/src/assets/logo.svg" alt="Ecoloeta" />
 
 #### Projeto construído durante a Next Level Week #01 da Rocketseat
 
-#### [Funcionalidades](#f-uncionalidades) • [Layout](#-layout) • [Tecnologias](#-tecnologias) • [Utilização](#-utilização) • [Licença](#-licença) • [Autor](#-author)
+#### [Sobre](#-sobre) — [Funcionalidades](#-funcionalidades) — [Demonstração](#-demonstração) — [Tecnologias](#-tecnologias) — [Utilização](#-utilização) — [Licença](#-licença) — [Autor](#-autor)
 
 #### Status: Concluído ✅
+
+## Sobre o Projeto
+
+O objetivo do projeto é divulgar pontos de coleta de lixo reciclável para as pessoas que necessitam desse serviço.
 
 ## 🛠 Funcionalidades
 
@@ -17,13 +23,14 @@
 
 **Aplicativo**
 
+- [x] Consulta de localidades pela API do IBGE;
 - [x] Busca dos pontos de coleta no banco de dados;
 - [x] Visualização dos pontos de coleta no mapa;
 - [x] Deeplink com Whatsapp e Email.
 
-## 🎨 Layout
+## 🎨 Demonstração
 
-<img src="https://github.com/hudvdias/ecoleta/blob/master/Ecoleta%20preview.jpg" alt="Prévia da aplicação do ecoleta" width=720 />
+Em breve.
 
 ## 💻 Tecnologias
 
@@ -82,3 +89,4 @@ Este repositório está sob licença MIT. Para mais informações, leia o arquiv
 ## 🧑 Autor
 
 Feito por **Hudson Dias**. [Entre em contato!](https://www.linkedin.com/in/hudvdias/)
+Idealizado por [**Rocketseat**](https://rocketseat.com.br/)
