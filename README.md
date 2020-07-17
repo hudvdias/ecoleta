@@ -4,11 +4,11 @@
 
 #### Projeto construído durante a Next Level Week #01 da Rocketseat
 
-#### [Sobre](#-sobre-o-projeto) — [Funcionalidades](#-funcionalidades) — [Demonstração](#-demonstração) — [Tecnologias](#-tecnologias) — [Utilização](#-utilização) — [Licença](#-licença) — [Autor](#-autor)
+#### [Sobre](#-objetivo) — [Funcionalidades](#-funcionalidades) — [Demonstração](#-demonstração) — [Tecnologias](#-tecnologias) — [Utilização](#-utilização) — [Licença](#-licença) — [Autor](#-autor)
 
 #### Status: Concluído ✅
 
-## Sobre o Projeto
+## 💡 Objetivo
 
 O objetivo do projeto é divulgar pontos de coleta de lixo reciclável para as pessoas que necessitam desse serviço.
 
@@ -89,4 +89,5 @@ Este repositório está sob licença MIT. Para mais informações, leia o arquiv
 ## 🧑 Autor
 
 Feito por **Hudson Dias**. [Entre em contato!](https://www.linkedin.com/in/hudvdias/)
-Idealizado por [**Rocketseat**](https://rocketseat.com.br/)
+
+Idealizado por [**Rocketseat**](https://rocketseat.com.br/).
