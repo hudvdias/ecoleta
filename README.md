@@ -4,7 +4,7 @@
 
 #### Projeto construído durante a Next Level Week #01 da Rocketseat
 
-#### [Sobre](#-objetivo) — [Funcionalidades](#-funcionalidades) — [Demonstração](#-demonstração) — [Tecnologias](#-tecnologias) — [Utilização](#-utilização) — [Licença](#-licença) — [Autor](#-autor)
+#### [Sobre](#-objetivo) — [Funcionalidades](#-funcionalidades) — [Demonstração](#-demonstração) — [Tecnologias](#-principais-tecnologias) — [Utilização](#-utilização) — [Licença](#-licença) — [Autor](#-autor)
 
 #### Status: Concluído ✅
 
