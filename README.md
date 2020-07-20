@@ -34,12 +34,12 @@ Em breve.
 
 ## 💻 Principais Tecnologias
 
-- Typescript
-- Node Js
-- React Js
-- React Native
-- SQL (SQLite)
-- Expo
+- [x] Typescript
+- [x] Node Js
+- [x] React Js
+- [x] React Native
+- [x] SQL (SQLite)
+- [x] Expo
 
 *Para visualizar todos as tecnologias e pacotes utilizados no projeto, acesse os arquivos package.json.*
 
