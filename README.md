@@ -49,7 +49,7 @@ Em breve.
 
 ```bash
 # Faça um clone do diretório ou download dos arquivos
-$ git clone https://github.com/hudvdias/ecoleta
+$ git clone https://github.com/hudvdias/ecoleta.git
 ```
 
 #### 👨‍💻 Servidor
