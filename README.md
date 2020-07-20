@@ -32,14 +32,16 @@ O objetivo do projeto é divulgar pontos de coleta de lixo reciclável para as p
 
 Em breve.
 
-## 💻 Tecnologias
+## 💻 Principais Tecnologias
 
+- Typescript
 - Node Js
 - React Js
 - React Native
-- Typescript
 - SQL (SQLite)
 - Expo
+
+*Para visualizar todos as tecnologias e pacotes utilizados no projeto, acesse os arquivos package.json.*
 
 ## 🚀 Utilização
 
@@ -58,6 +60,12 @@ $ npm install
 
 # Inicie o servidor
 $ npm run dev
+
+# Crie o banco de dados
+$ npx run knex:migrate
+
+# Execute as seeds
+$ npx run knex:seed
 ```
 
 #### 🖥 Aplicação Web
