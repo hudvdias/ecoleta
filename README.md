@@ -1,6 +1,6 @@
 # Ecoleta
 
-<img src="https://github.com/hudvdias/ecoleta/blob/master/web/src/assets/logo.svg" alt="Ecoloeta" />
+<img src="https://github.com/hudvdias/ecoleta/blob/master/web/src/assets/logo.svg" alt="Ecoleta" />
 
 #### Projeto construído durante a Next Level Week #01 da Rocketseat
 
@@ -75,7 +75,7 @@ $ npx run knex:seed
 $ npm install
 
 # Inicie a aplicação web
-$ bpm start
+$ npm start
 ```
 
 #### 📱 Aplicação Mobile
